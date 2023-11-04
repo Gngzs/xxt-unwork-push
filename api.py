@@ -179,5 +179,3 @@ def wxpusher(content, summary):
     results = json.loads(result.text)
     return results["msg"]
 
-
-print(wxpusher(xxt_unwork(),"学习通作业提醒"))
