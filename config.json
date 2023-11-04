@@ -1,26 +1,11 @@
 {
     "xxt": {
-        "uname": "13028052922",
-        "password": "love1314%",
-        "cookie": "DSSTASH_LOG=C_38-UN_2536-US_196040347-T_1699024729071;UID=196040347;_d=1699024729068;_uid=196040347;cx_p_token=1b20b2cda2a96fccfd74a174c2f6c6b5;fid=1754;lv=3;p_auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxOTYwNDAzNDciLCJsb2dpblRpbWUiOjE2OTkwMjQ3MjkwNzAsImV4cCI6MTY5OTYyOTUyOX0.CzgOdccrWNzz17DPU1IB6jXTiOu-xz3weGmRceggfuw;uf=b2d2c93beefa90dcbfa69b46d487444b08f4a0b026433fc13edaa00e86473588e270e3179bcd60e5f038a2c18262bfea913b662843f1f4ad6d92e371d7fdf644e96dd00ce55a895f52fbddc3b2f63c9f63282831c4613bcca5c240dbe1e7874964a4f580e737f1cd;vc=87A3D9BF7086784F9FA57AAA9B651B58;vc2=5D3FC510C8829AE8F7111A4F4751B403;vc3=bEKsl80dmJY0SRrQVqIC5gXqgO3kJz2vWpicqsrGI6%2BzvXEVE9EBkezaXiuu49VqAfG2kyQFGgjMxWDqfW79juA75pKFu7ORArC5cEAsLb0amluvbP7Jp1RlifRiN7jtCtuINId2tANNOuQmIMaHHWLZecMixTq%2FXVXbwqWrX84%3D6b27b0abe8988a075b6c8c42712594e2;xxtenc=295620517f181949d6f3f59e25833402;JSESSIONID=008ECC5A47C2DADB1F4815B1B15BF443;route=fb0878d2b253f576b9614a77ccc901db;",
-        "cookies": {
-            "lv": "",
-            "fid": "",
-            "_uid": "",
-            "uf": "",
-            "_d": "",
-            "UID": "",
-            "vc": "",
-            "vc2": "",
-            "vc3": "",
-            "cx_p_token": "",
-            "p_auth_token": "",
-            "xxtenc": "",
-            "DSSTASH_LOG": ""
-        }
+        "uname": "学习通账号（手机号）",
+        "password": "学习通密码",
+        "cookie": "学习通cookie，无需填写"
     },
     "wxpusher": {
-        "token": "AT_foUp9vEvV5QdvHHY3Qo0qJkl5RPPULXq",
-        "uid": "UID_1XOS8A85pn6ngi3rNZuiSeFgH4Ne"
+        "token": "wxpusher平台的apptoken",
+        "uid": "所推送微信的wxpusher的UID"
     }
 }
