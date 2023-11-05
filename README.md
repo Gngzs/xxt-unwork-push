@@ -16,7 +16,7 @@ python安装过程不再赘述，版本需>3.10
 
 安装完成后在CMD或终端依次执行以下代码;
 
-	pip install BeautifulSoup
+	pip install BeautifulSoup4
 	pip install schedule
 	
 ### 启动程序
