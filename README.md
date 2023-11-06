@@ -44,3 +44,9 @@ python安装过程不再赘述，版本需>3.10
 	from collections.abc import Mapping
 	from collections.abc import MutableMapping
 	#即用collections.abc代替collections调用方法Mapping、MutableMapping
+
+ ### 提示`AttributeError: module ‘collections‘ has no attribute`
+
+ 编辑报错的文件
+
+更改`collections.attr` 为 `collections.abc.attr`即可
