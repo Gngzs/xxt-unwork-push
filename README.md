@@ -18,7 +18,7 @@ python安装过程不再赘述，版本需>3.10
 
 	pip install BeautifulSoup4
 	pip install schedule
-pip install requests
+    pip install requests
 	
 ### 启动程序
 1、将本项目所有文件下载到同一文件夹下，按照提示修改config.json的内容，有关wxpusher的配置请查阅[wxpusher](https://wxpusher.zjiecode.com/docs/#/)官方文档
