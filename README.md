@@ -35,3 +35,12 @@ python安装过程不再赘述，版本需>3.10
 
 ## 常见异常处理
 ### 提示`cannot import name 'Mapping' from 'collections'`
+编辑报错的文件
+
+	#将
+	from collections import Mapping 
+	from collections import MutableMapping 
+	#这些导入全部替换以下这些，如没有这两行，在文件开头加上即可
+	from collections.abc import Mapping
+	from collections.abc import MutableMapping
+	#即用collections.abc代替collections调用方法Mapping、MutableMapping
